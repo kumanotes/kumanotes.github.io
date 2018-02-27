@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'i.loli.net/2018/02/26/5a942d0b2de6b.jpg': 'center',
-							'i.loli.net/2018/02/26/5a942d1a79f5c.jpg': 'center',
-							'i.loli.net/2018/02/27/5a9430d8c493d.jpg': 'center'
+							'https://i.loli.net/2018/02/26/5a942d0b2de6b.jpg': 'center',
+							'https://i.loli.net/2018/02/26/5a942d1a79f5c.jpg': 'center',
+							'https://i.loli.net/2018/02/27/5a9430d8c493d.jpg': 'center'
 						},
 
 					// Delay.
