@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'http://7viiou.com1.z0.glb.clouddn.com/images/bg01.jpg': 'center',
-							'http://7viiou.com1.z0.glb.clouddn.com/images/bg02.jpg': 'center',
-							'http://7viiou.com1.z0.glb.clouddn.com/images/bg03.jpg': 'center'
+							'images/bg01.jpg': 'center',
+							'images/bg02.jpg': 'center',
+							'images/bg03.jpg': 'center'
 						},
 
 					// Delay.
